@@ -140,7 +140,7 @@ input[type="email"] {
   font-size: 1rem;
   text-align: left;
   background-color: white;
-  border: 2px solid var(--color-light);
+  border: 2px solid var(--color-accent-hover);
   border-radius: 5px;
   color: var(--color-dark);
   margin-top: 0.8rem;
@@ -153,7 +153,7 @@ input[type="email"] {
   font-size: 1rem;
   text-align: left;
   background-color: white;
-  border: 2px solid var(--color-light);
+  border: 2px solid var(--color-accent-hover);
   color: var(--color-dark);
   font-family: "Poppins", sans-serif;
   margin-top: 0.8rem;
@@ -330,7 +330,7 @@ header button {
   padding: 2rem;
   grid-template-columns: 1fr 1fr;
   border-radius: 10px;
-  border: 2px solid var(--color-light);
+  border: 2px solid var(--color-accent-hover);
   margin-top: 2rem;
 }
 #contact_form > div:nth-child(3) {
